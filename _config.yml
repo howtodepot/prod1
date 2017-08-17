@@ -13,9 +13,9 @@ title                    : "How To Depot"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "A blog about how to diy,saving money, spending money, insurance, investing, taxes and other topics related to personal finance, parenting, excel tips, iphone tips."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://howtodepot.github.io" 
+baseurl                  : "/prod1"  
+repository               : "howtodepot/prod1" 
 teaser                   : "/assets/images/teaser-images-example.jpg"
 breadcrumbs              : true
 # breadcrumbs            : false # true, false (default)
